@@ -2,8 +2,8 @@ RENCANA PROYEK GENKY
 
 - Genky1506 App
   * Android
-  * Fitur Baru
+  * iOS
 - Warung Genky Shop Site
 - Warung Genky Shop App
-- Android Game
+- Mobile Game
 - Big PC Game
