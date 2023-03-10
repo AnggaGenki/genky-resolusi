@@ -2,3 +2,5 @@ GENKY RESOLUSI
 - Menyelesaikan proyek website Genky1506
 - Menyelesaikan proyek Warung Genky
 - Mempelajari beberapa teknologi
+- Membuat game dengan cerita, grafik, dan gameplay yang mengesankan
+- Belajar berkolaborasi dengan sesama programmer atau sesama developer
