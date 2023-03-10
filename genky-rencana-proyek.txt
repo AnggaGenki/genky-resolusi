@@ -2,8 +2,13 @@ RENCANA PROYEK GENKY
 
 - Genky1506 App
   * Android
-  * iOS
+  * Fitur Baru
+    ^ Chatbot
+    ^ Object Detection
 - Warung Genky Shop Site
 - Warung Genky Shop App
 - Mobile Game
 - Big PC Game
+- Mesin
+  ^ Arduino
+  ^ Rasberry Pi
