@@ -7,7 +7,7 @@ RENCANA PROYEK GENKY
     ^ Object Detection
 - Warung Genky Shop Site
 - Warung Genky Shop App
-- Android Game
+- Mobile Game
 - Big PC Game
 - Mesin
   ^ Arduino
