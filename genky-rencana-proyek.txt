@@ -9,4 +9,6 @@ RENCANA PROYEK GENKY
 - Warung Genky Shop App
 - Android Game
 - Big PC Game
-- Arduino
+- Mesin
+  ^ Arduino
+  ^ Rasberry Pi
